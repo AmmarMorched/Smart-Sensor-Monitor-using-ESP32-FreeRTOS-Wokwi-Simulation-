@@ -1,0 +1,7 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+FreeRTOS
+DHT22
+dhtESP32-rmt
+DHT sensor library for ESPx
